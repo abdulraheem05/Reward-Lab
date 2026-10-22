@@ -1,0 +1,4 @@
+model,mean_reward,std_reward,success_rate_pct,episodes_ge_200,mean_episode_length,mean_steps,episodes_below_0
+Baseline PPO,241.51558144085152,42.77775329407141,92.0,92,375.27,375.27,0
+Time Penalty,33.42677553875923,130.9243150683876,13.0,13,531.93,531.93,53
+Hover Bonus,-87.87841167629784,37.26952302885769,0.0,0,973.46,973.46,100

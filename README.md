@@ -14,6 +14,8 @@ The main finding so far is straightforward: **the baseline PPO policy is already
 
 This is an empirical project. The experiments below are reported as they actually performed; unsuccessful approaches are retained as useful negative results rather than described as successful improvements.
 
+<img src="./videos/sample_frame/sample_frame.jpeg" alt="Placeholder">
+
 ## Environment and metrics
 
 ### Environment

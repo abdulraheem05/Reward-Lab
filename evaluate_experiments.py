@@ -11,6 +11,8 @@ MODELS = {
     "Baseline PPO": "models/best/best_model.zip",
     "Time Penalty": "models/experiments/time_penalty/model.zip",
     "Hover Bonus": "models/experiments/hover_bonus/model.zip",
+    "Progress": "models/experiments/progress/model.zip",
+    "Potential Shaping": "models/experiments/potential/model.zip",
 }
 
 EPISODES = 100

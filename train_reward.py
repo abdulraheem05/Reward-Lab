@@ -12,7 +12,7 @@ from reward_wrapper import RewardShapingWrapper
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--reward",
-    choices=["baseline", "time_penalty", "hover_bonus", "progress"],
+    choices=["baseline", "time_penalty", "hover_bonus", "progress", "potential"],
     required=True,
 )
 parser.add_argument("--steps", type=int, default=100_000)

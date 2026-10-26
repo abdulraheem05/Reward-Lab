@@ -1,0 +1,901 @@
+model,checkpoint,episode,seed,reward,episode_length,success_ge_200,reward_below_0,terminated,truncated
+Baseline PPO,models/best/best_model.zip,1,1001,258.11817395813387,295,True,False,True,False
+Baseline PPO,models/best/best_model.zip,2,1002,257.1786967963344,332,True,False,True,False
+Baseline PPO,models/best/best_model.zip,3,1003,257.06447729575035,332,True,False,True,False
+Baseline PPO,models/best/best_model.zip,4,1004,291.0952985081814,271,True,False,True,False
+Baseline PPO,models/best/best_model.zip,5,1005,237.08195460747524,311,True,False,True,False
+Baseline PPO,models/best/best_model.zip,6,1006,262.61017342020875,309,True,False,True,False
+Baseline PPO,models/best/best_model.zip,7,1007,256.8403475415622,305,True,False,True,False
+Baseline PPO,models/best/best_model.zip,8,1008,246.68808695274106,330,True,False,True,False
+Baseline PPO,models/best/best_model.zip,9,1009,210.1968495432153,588,True,False,True,False
+Baseline PPO,models/best/best_model.zip,10,1010,294.8206181755012,327,True,False,True,False
+Baseline PPO,models/best/best_model.zip,11,1011,230.1281348715588,310,True,False,True,False
+Baseline PPO,models/best/best_model.zip,12,1012,240.91831519014488,307,True,False,True,False
+Baseline PPO,models/best/best_model.zip,13,1013,288.6581196894949,381,True,False,True,False
+Baseline PPO,models/best/best_model.zip,14,1014,235.60431171787613,308,True,False,True,False
+Baseline PPO,models/best/best_model.zip,15,1015,265.96482092439373,350,True,False,True,False
+Baseline PPO,models/best/best_model.zip,16,1016,241.35625500445073,339,True,False,True,False
+Baseline PPO,models/best/best_model.zip,17,1017,251.86011952755842,307,True,False,True,False
+Baseline PPO,models/best/best_model.zip,18,1018,266.6416671095509,303,True,False,True,False
+Baseline PPO,models/best/best_model.zip,19,1019,261.7944805450088,301,True,False,True,False
+Baseline PPO,models/best/best_model.zip,20,1020,33.792618110356386,281,False,False,True,False
+Baseline PPO,models/best/best_model.zip,21,1021,259.19999322522574,344,True,False,True,False
+Baseline PPO,models/best/best_model.zip,22,1022,265.2816007585524,325,True,False,True,False
+Baseline PPO,models/best/best_model.zip,23,1023,236.5740142261429,328,True,False,True,False
+Baseline PPO,models/best/best_model.zip,24,1024,284.0761524042843,337,True,False,True,False
+Baseline PPO,models/best/best_model.zip,25,1025,261.826914550457,348,True,False,True,False
+Baseline PPO,models/best/best_model.zip,26,1026,278.9532026963768,334,True,False,True,False
+Baseline PPO,models/best/best_model.zip,27,1027,247.7881768442367,342,True,False,True,False
+Baseline PPO,models/best/best_model.zip,28,1028,268.54560880119107,276,True,False,True,False
+Baseline PPO,models/best/best_model.zip,29,1029,193.55540914356231,595,False,False,True,False
+Baseline PPO,models/best/best_model.zip,30,1030,244.59020182334854,333,True,False,True,False
+Baseline PPO,models/best/best_model.zip,31,1031,264.5633092009766,339,True,False,True,False
+Baseline PPO,models/best/best_model.zip,32,1032,275.8556014496349,359,True,False,True,False
+Baseline PPO,models/best/best_model.zip,33,1033,242.83812096176027,360,True,False,True,False
+Baseline PPO,models/best/best_model.zip,34,1034,193.33349589384898,615,False,False,True,False
+Baseline PPO,models/best/best_model.zip,35,1035,249.9105894597399,325,True,False,True,False
+Baseline PPO,models/best/best_model.zip,36,1036,252.4573225191269,332,True,False,True,False
+Baseline PPO,models/best/best_model.zip,37,1037,262.1618922218639,350,True,False,True,False
+Baseline PPO,models/best/best_model.zip,38,1038,264.48633374164007,321,True,False,True,False
+Baseline PPO,models/best/best_model.zip,39,1039,259.7282595116594,311,True,False,True,False
+Baseline PPO,models/best/best_model.zip,40,1040,257.70326540964345,303,True,False,True,False
+Baseline PPO,models/best/best_model.zip,41,1041,264.3667258778802,334,True,False,True,False
+Baseline PPO,models/best/best_model.zip,42,1042,135.6765980022857,1000,False,False,False,True
+Baseline PPO,models/best/best_model.zip,43,1043,238.38915956479633,302,True,False,True,False
+Baseline PPO,models/best/best_model.zip,44,1044,219.69652054250093,324,True,False,True,False
+Baseline PPO,models/best/best_model.zip,45,1045,286.9044229285364,394,True,False,True,False
+Baseline PPO,models/best/best_model.zip,46,1046,249.65174899520446,298,True,False,True,False
+Baseline PPO,models/best/best_model.zip,47,1047,284.79947017233565,330,True,False,True,False
+Baseline PPO,models/best/best_model.zip,48,1048,270.1922211419575,330,True,False,True,False
+Baseline PPO,models/best/best_model.zip,49,1049,263.6917277733087,322,True,False,True,False
+Baseline PPO,models/best/best_model.zip,50,1050,247.80881274244996,318,True,False,True,False
+Baseline PPO,models/best/best_model.zip,51,1051,100.48327253174182,1000,False,False,False,True
+Baseline PPO,models/best/best_model.zip,52,1052,266.4667885003301,339,True,False,True,False
+Baseline PPO,models/best/best_model.zip,53,1053,228.17853705048742,301,True,False,True,False
+Baseline PPO,models/best/best_model.zip,54,1054,270.7117588563234,331,True,False,True,False
+Baseline PPO,models/best/best_model.zip,55,1055,257.0347111988776,333,True,False,True,False
+Baseline PPO,models/best/best_model.zip,56,1056,261.46302012420455,305,True,False,True,False
+Baseline PPO,models/best/best_model.zip,57,1057,263.34738835064104,319,True,False,True,False
+Baseline PPO,models/best/best_model.zip,58,1058,231.50564166305796,553,True,False,True,False
+Baseline PPO,models/best/best_model.zip,59,1059,259.0063593526123,355,True,False,True,False
+Baseline PPO,models/best/best_model.zip,60,1060,243.47485830670112,323,True,False,True,False
+Baseline PPO,models/best/best_model.zip,61,1061,251.42194644356059,329,True,False,True,False
+Baseline PPO,models/best/best_model.zip,62,1062,255.8089199087685,294,True,False,True,False
+Baseline PPO,models/best/best_model.zip,63,1063,248.52065511656866,358,True,False,True,False
+Baseline PPO,models/best/best_model.zip,64,1064,230.67013480340117,315,True,False,True,False
+Baseline PPO,models/best/best_model.zip,65,1065,111.54612496856763,1000,False,False,False,True
+Baseline PPO,models/best/best_model.zip,66,1066,246.2754092242136,333,True,False,True,False
+Baseline PPO,models/best/best_model.zip,67,1067,252.2824911401182,298,True,False,True,False
+Baseline PPO,models/best/best_model.zip,68,1068,253.01754414910368,372,True,False,True,False
+Baseline PPO,models/best/best_model.zip,69,1069,267.4735946709469,284,True,False,True,False
+Baseline PPO,models/best/best_model.zip,70,1070,205.271159147368,779,True,False,True,False
+Baseline PPO,models/best/best_model.zip,71,1071,223.13979312748037,419,True,False,True,False
+Baseline PPO,models/best/best_model.zip,72,1072,263.08375998087456,394,True,False,True,False
+Baseline PPO,models/best/best_model.zip,73,1073,284.3864834571619,284,True,False,True,False
+Baseline PPO,models/best/best_model.zip,74,1074,255.5647470568102,291,True,False,True,False
+Baseline PPO,models/best/best_model.zip,75,1075,243.48128191990395,318,True,False,True,False
+Baseline PPO,models/best/best_model.zip,76,1076,233.50669310890726,375,True,False,True,False
+Baseline PPO,models/best/best_model.zip,77,1077,219.4111378624876,306,True,False,True,False
+Baseline PPO,models/best/best_model.zip,78,1078,262.02617676992554,288,True,False,True,False
+Baseline PPO,models/best/best_model.zip,79,1079,234.61908300469887,301,True,False,True,False
+Baseline PPO,models/best/best_model.zip,80,1080,140.07289297382894,1000,False,False,False,True
+Baseline PPO,models/best/best_model.zip,81,1081,274.2296358631794,359,True,False,True,False
+Baseline PPO,models/best/best_model.zip,82,1082,254.81650881509898,292,True,False,True,False
+Baseline PPO,models/best/best_model.zip,83,1083,228.3351129508066,300,True,False,True,False
+Baseline PPO,models/best/best_model.zip,84,1084,254.42847438270485,308,True,False,True,False
+Baseline PPO,models/best/best_model.zip,85,1085,249.53499770657874,286,True,False,True,False
+Baseline PPO,models/best/best_model.zip,86,1086,230.16507245128292,326,True,False,True,False
+Baseline PPO,models/best/best_model.zip,87,1087,263.2727460753557,325,True,False,True,False
+Baseline PPO,models/best/best_model.zip,88,1088,240.57431392172296,344,True,False,True,False
+Baseline PPO,models/best/best_model.zip,89,1089,275.68815602219945,409,True,False,True,False
+Baseline PPO,models/best/best_model.zip,90,1090,213.12594647339273,316,True,False,True,False
+Baseline PPO,models/best/best_model.zip,91,1091,228.96975789101577,301,True,False,True,False
+Baseline PPO,models/best/best_model.zip,92,1092,244.16981461019282,299,True,False,True,False
+Baseline PPO,models/best/best_model.zip,93,1093,207.85341509633207,306,True,False,True,False
+Baseline PPO,models/best/best_model.zip,94,1094,63.116959008034584,1000,False,False,False,True
+Baseline PPO,models/best/best_model.zip,95,1095,245.15978729133204,331,True,False,True,False
+Baseline PPO,models/best/best_model.zip,96,1096,200.04500905807905,535,True,False,True,False
+Baseline PPO,models/best/best_model.zip,97,1097,261.591063067254,297,True,False,True,False
+Baseline PPO,models/best/best_model.zip,98,1098,248.97441868130167,311,True,False,True,False
+Baseline PPO,models/best/best_model.zip,99,1099,228.59944443796164,338,True,False,True,False
+Baseline PPO,models/best/best_model.zip,100,1100,10.245361184547136,239,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,1,1001,-89.73748178443219,424,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,2,1002,118.78063109610879,894,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,3,1003,226.0860685754647,473,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,4,1004,-166.20372845633648,903,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,5,1005,212.88650040642608,447,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,6,1006,92.51536002656974,959,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,7,1007,129.69679427444663,541,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,8,1008,129.70099070820015,729,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,9,1009,-122.79798632449553,433,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,10,1010,-86.02502010643387,692,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,11,1011,118.96469707576652,678,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,12,1012,130.82992684801866,639,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,13,1013,219.30541118879046,403,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,14,1014,-86.2399774940469,416,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,15,1015,186.30637009083074,483,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,16,1016,-63.29029728762333,366,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,17,1017,185.1424118125775,448,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,18,1018,-171.0922056848503,837,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,19,1019,160.32197187117322,599,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,20,1020,-22.006657318052035,1000,False,True,False,True
+Time Penalty,models/experiments/time_penalty/model.zip,21,1021,-41.79541566232843,433,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,22,1022,-31.144963986113908,407,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,23,1023,-89.23811406619357,433,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,24,1024,198.79957161527727,418,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,25,1025,218.21321854070715,545,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,26,1026,-55.739019316967,293,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,27,1027,-65.52880435491512,492,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,28,1028,146.22727546552255,752,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,29,1029,-182.4299679506529,438,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,30,1030,-67.99836370012856,506,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,31,1031,-109.93633636221367,534,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,32,1032,-110.66553011571251,755,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,33,1033,-78.27331667475441,327,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,34,1034,83.78349114595731,953,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,35,1035,198.5086230012743,528,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,36,1036,231.73706126783225,452,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,37,1037,198.47470288513472,505,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,38,1038,162.36324883426477,665,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,39,1039,96.95840760916549,770,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,40,1040,182.17898796328546,416,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,41,1041,143.7745455260964,647,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,42,1042,-65.52108920324056,206,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,43,1043,197.63696137535055,497,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,44,1044,161.88785041914966,486,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,45,1045,-52.99128480015258,259,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,46,1046,-67.99663831175863,417,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,47,1047,-48.2337802079783,299,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,48,1048,182.31711073919615,646,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,49,1049,195.088145375987,393,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,50,1050,-69.57251514042255,438,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,51,1051,-42.582665499383864,1000,False,True,False,True
+Time Penalty,models/experiments/time_penalty/model.zip,52,1052,3.9450661922186026,1000,False,False,False,True
+Time Penalty,models/experiments/time_penalty/model.zip,53,1053,-90.83242854433797,401,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,54,1054,-79.86052582278496,394,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,55,1055,206.41101149395462,468,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,56,1056,-138.58615360347042,665,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,57,1057,61.39492575467996,721,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,58,1058,-69.40603582391341,380,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,59,1059,-72.58702352243333,1000,False,True,False,True
+Time Penalty,models/experiments/time_penalty/model.zip,60,1060,201.34269804458273,434,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,61,1061,-42.24033673846224,490,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,62,1062,150.19030271161233,614,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,63,1063,-94.30210225911348,370,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,64,1064,183.06918860818655,492,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,65,1065,-96.6943073790273,400,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,66,1066,-37.29400488571553,474,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,67,1067,211.48775826742292,478,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,68,1068,-58.51942637262157,356,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,69,1069,-123.98282188694968,445,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,70,1070,-53.014879495573545,1000,False,True,False,True
+Time Penalty,models/experiments/time_penalty/model.zip,71,1071,-53.056665820431895,231,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,72,1072,-43.98472215200037,363,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,73,1073,-61.8165614373257,486,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,74,1074,126.03086191924517,486,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,75,1075,-79.55046066936958,511,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,76,1076,199.88482752657407,521,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,77,1077,-145.5172835829655,526,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,78,1078,-49.81075034323209,315,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,79,1079,-75.17380722425415,381,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,80,1080,-96.26246420841214,303,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,81,1081,-69.93971247099034,326,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,82,1082,130.3014884917539,650,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,83,1083,119.66763130066946,616,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,84,1084,232.61649410183472,430,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,85,1085,123.63781373785632,565,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,86,1086,-89.56592584101082,497,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,87,1087,-72.77536696996252,1000,False,True,False,True
+Time Penalty,models/experiments/time_penalty/model.zip,88,1088,203.98584888945163,486,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,89,1089,-74.79632347521708,366,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,90,1090,-120.10057783418779,505,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,91,1091,175.5826498734469,468,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,92,1092,175.62410715042432,528,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,93,1093,120.37754646671294,494,False,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,94,1094,-96.14021257022046,331,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,95,1095,208.8924976137974,488,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,96,1096,-129.0315224122185,411,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,97,1097,212.4658666153259,502,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,98,1098,-116.59628593062477,649,False,True,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,99,1099,200.82548774936112,459,True,False,True,False
+Time Penalty,models/experiments/time_penalty/model.zip,100,1100,-51.2761509739051,212,False,True,True,False
+Hover Bonus,models/experiments/hover_bonus/model.zip,1,1001,-90.50028461755115,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,2,1002,-85.7561284897906,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,3,1003,-82.14050605107617,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,4,1004,-57.01555628001688,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,5,1005,-105.15555891243324,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,6,1006,-65.99182406752281,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,7,1007,-74.18844844198908,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,8,1008,-100.81408243193385,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,9,1009,-89.92258024251946,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,10,1010,-15.631432348538365,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,11,1011,-117.75444710576802,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,12,1012,-112.10186093281133,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,13,1013,-32.6427724237174,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,14,1014,-116.04289287096638,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,15,1015,-51.081728763816756,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,16,1016,-103.63305699288222,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,17,1017,-74.26717873094937,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,18,1018,-67.12373679397777,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,19,1019,-75.85376506092928,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,20,1020,-341.4827273233697,284,False,True,True,False
+Hover Bonus,models/experiments/hover_bonus/model.zip,21,1021,-88.36904096738705,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,22,1022,-58.83287523427438,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,23,1023,-101.02082847104045,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,24,1024,-33.89354222238991,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,25,1025,-92.32980303792468,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,26,1026,-44.20822617667055,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,27,1027,-94.51454593108276,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,28,1028,-76.21846863397255,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,29,1029,-85.6778929708406,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,30,1030,-92.81739915589432,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,31,1031,-81.41380235088415,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,32,1032,-64.06116818879302,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,33,1033,-96.74490731689016,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,34,1034,-92.10693582775201,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,35,1035,-92.71424588180615,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,36,1036,-93.34957631010828,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,37,1037,-45.60452464204879,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,38,1038,-77.35894508521326,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,39,1039,-80.84420495773753,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,40,1040,-64.91409276696461,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,41,1041,-62.482151459688396,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,42,1042,-172.44823515432904,391,False,True,True,False
+Hover Bonus,models/experiments/hover_bonus/model.zip,43,1043,-109.03799442720657,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,44,1044,-118.22702281947441,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,45,1045,-190.48085352329525,259,False,True,True,False
+Hover Bonus,models/experiments/hover_bonus/model.zip,46,1046,-96.54240656014466,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,47,1047,-36.827503462517065,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,48,1048,-57.28418210994367,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,49,1049,-61.715371219165945,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,50,1050,-101.70972994451783,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,51,1051,-16.965473857020413,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,52,1052,-80.36716256695871,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,53,1053,-115.29906962834121,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,54,1054,-33.6818438664442,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,55,1055,-79.31102716863643,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,56,1056,-79.54519913481033,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,57,1057,-90.60829659759958,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,58,1058,-55.514857391334104,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,59,1059,-85.04191154090768,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,60,1060,-100.67283575194902,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,61,1061,-96.4131601340964,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,62,1062,-85.42394134712802,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,63,1063,-88.80524811620708,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,64,1064,-98.46041760756432,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,65,1065,-80.24430586074887,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,66,1066,-96.55617484489935,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,67,1067,-93.48611131273407,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,68,1068,-77.53022883082774,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,69,1069,-88.31547086589664,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,70,1070,-82.94156711303422,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,71,1071,-41.328074073171315,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,72,1072,-68.76169326277765,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,73,1073,-67.5433866230716,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,74,1074,-95.03224800191911,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,75,1075,-102.34060384571434,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,76,1076,-93.81096553254031,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,77,1077,-134.31630430865204,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,78,1078,-67.14299498373921,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,79,1079,-91.93386214573796,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,80,1080,-55.663616690885476,412,False,True,True,False
+Hover Bonus,models/experiments/hover_bonus/model.zip,81,1081,-70.01449554232848,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,82,1082,-90.35197303415818,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,83,1083,-117.70762882851739,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,84,1084,-81.07949585312194,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,85,1085,-93.72258276189248,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,86,1086,-108.66567640720024,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,87,1087,-88.40466737956966,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,88,1088,-111.12432367862003,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,89,1089,-55.14394657643882,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,90,1090,-138.5953028853296,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,91,1091,-115.80389411326159,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,92,1092,-94.26751458988078,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,93,1093,-123.55396194453411,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,94,1094,-93.85783780471175,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,95,1095,-99.95582137543599,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,96,1096,-89.2818473235219,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,97,1097,-89.6949690330135,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,98,1098,-83.89453955874313,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,99,1099,-101.40325463675275,1000,False,True,False,True
+Hover Bonus,models/experiments/hover_bonus/model.zip,100,1100,-265.56970227953406,259,False,True,True,False
+Progress,models/experiments/progress/model.zip,1,1001,188.48111009113384,700,False,False,True,False
+Progress,models/experiments/progress/model.zip,2,1002,-196.94828505858243,648,False,True,True,False
+Progress,models/experiments/progress/model.zip,3,1003,165.70287613656245,701,False,False,True,False
+Progress,models/experiments/progress/model.zip,4,1004,-141.299118139685,807,False,True,True,False
+Progress,models/experiments/progress/model.zip,5,1005,124.01838465299758,895,False,False,True,False
+Progress,models/experiments/progress/model.zip,6,1006,-85.93857220021158,206,False,True,True,False
+Progress,models/experiments/progress/model.zip,7,1007,152.50101396596884,806,False,False,True,False
+Progress,models/experiments/progress/model.zip,8,1008,-97.10504560093335,614,False,True,True,False
+Progress,models/experiments/progress/model.zip,9,1009,-145.26019035678485,740,False,True,True,False
+Progress,models/experiments/progress/model.zip,10,1010,-55.88886313218305,230,False,True,True,False
+Progress,models/experiments/progress/model.zip,11,1011,157.5949361193262,690,False,False,True,False
+Progress,models/experiments/progress/model.zip,12,1012,126.08789599234832,686,False,False,True,False
+Progress,models/experiments/progress/model.zip,13,1013,66.55464035419195,1000,False,False,False,True
+Progress,models/experiments/progress/model.zip,14,1014,-199.2778198566387,526,False,True,True,False
+Progress,models/experiments/progress/model.zip,15,1015,-20.963452514408573,1000,False,True,False,True
+Progress,models/experiments/progress/model.zip,16,1016,88.68430352795018,730,False,False,True,False
+Progress,models/experiments/progress/model.zip,17,1017,178.11337297144985,760,False,False,True,False
+Progress,models/experiments/progress/model.zip,18,1018,-71.1008733709298,335,False,True,True,False
+Progress,models/experiments/progress/model.zip,19,1019,113.50430960908061,742,False,False,True,False
+Progress,models/experiments/progress/model.zip,20,1020,-87.10393714491195,173,False,True,True,False
+Progress,models/experiments/progress/model.zip,21,1021,-160.19624923048184,714,False,True,True,False
+Progress,models/experiments/progress/model.zip,22,1022,166.49506751771864,771,False,False,True,False
+Progress,models/experiments/progress/model.zip,23,1023,-217.73311491760535,527,False,True,True,False
+Progress,models/experiments/progress/model.zip,24,1024,150.79167424613712,734,False,False,True,False
+Progress,models/experiments/progress/model.zip,25,1025,181.09504334249624,732,False,False,True,False
+Progress,models/experiments/progress/model.zip,26,1026,-65.58530298229422,243,False,True,True,False
+Progress,models/experiments/progress/model.zip,27,1027,167.06925782985007,709,False,False,True,False
+Progress,models/experiments/progress/model.zip,28,1028,-74.1964383878634,494,False,True,True,False
+Progress,models/experiments/progress/model.zip,29,1029,-184.25953269877755,428,False,True,True,False
+Progress,models/experiments/progress/model.zip,30,1030,80.47686386113443,670,False,False,True,False
+Progress,models/experiments/progress/model.zip,31,1031,157.46106414312513,710,False,False,True,False
+Progress,models/experiments/progress/model.zip,32,1032,-86.73716248817638,200,False,True,True,False
+Progress,models/experiments/progress/model.zip,33,1033,-90.71432492867513,279,False,True,True,False
+Progress,models/experiments/progress/model.zip,34,1034,-205.59506392438388,528,False,True,True,False
+Progress,models/experiments/progress/model.zip,35,1035,-216.2287287671795,781,False,True,True,False
+Progress,models/experiments/progress/model.zip,36,1036,160.98849495205448,762,False,False,True,False
+Progress,models/experiments/progress/model.zip,37,1037,171.10732529475433,903,False,False,True,False
+Progress,models/experiments/progress/model.zip,38,1038,111.47837204479606,679,False,False,True,False
+Progress,models/experiments/progress/model.zip,39,1039,-89.49185371079572,414,False,True,True,False
+Progress,models/experiments/progress/model.zip,40,1040,98.11001462016696,845,False,False,True,False
+Progress,models/experiments/progress/model.zip,41,1041,-105.81934410489389,499,False,True,True,False
+Progress,models/experiments/progress/model.zip,42,1042,-84.25225330801223,187,False,True,True,False
+Progress,models/experiments/progress/model.zip,43,1043,123.36914318100374,725,False,False,True,False
+Progress,models/experiments/progress/model.zip,44,1044,156.9918476128866,702,False,False,True,False
+Progress,models/experiments/progress/model.zip,45,1045,-68.21566492398023,177,False,True,True,False
+Progress,models/experiments/progress/model.zip,46,1046,88.00684159623779,571,False,False,True,False
+Progress,models/experiments/progress/model.zip,47,1047,214.58460334041646,687,True,False,True,False
+Progress,models/experiments/progress/model.zip,48,1048,197.12893565064786,791,False,False,True,False
+Progress,models/experiments/progress/model.zip,49,1049,131.52173771727334,765,False,False,True,False
+Progress,models/experiments/progress/model.zip,50,1050,133.19777778864972,604,False,False,True,False
+Progress,models/experiments/progress/model.zip,51,1051,-64.62754330721322,353,False,True,True,False
+Progress,models/experiments/progress/model.zip,52,1052,-85.74349191295212,374,False,True,True,False
+Progress,models/experiments/progress/model.zip,53,1053,153.53560475075864,721,False,False,True,False
+Progress,models/experiments/progress/model.zip,54,1054,-76.884213687608,225,False,True,True,False
+Progress,models/experiments/progress/model.zip,55,1055,161.24648764277597,762,False,False,True,False
+Progress,models/experiments/progress/model.zip,56,1056,-98.26079315224946,443,False,True,True,False
+Progress,models/experiments/progress/model.zip,57,1057,70.84864812841303,676,False,False,True,False
+Progress,models/experiments/progress/model.zip,58,1058,-32.21597204025238,685,False,True,True,False
+Progress,models/experiments/progress/model.zip,59,1059,-90.67878985403813,270,False,True,True,False
+Progress,models/experiments/progress/model.zip,60,1060,131.21233627694173,678,False,False,True,False
+Progress,models/experiments/progress/model.zip,61,1061,120.12789634966272,685,False,False,True,False
+Progress,models/experiments/progress/model.zip,62,1062,-84.36285001289173,537,False,True,True,False
+Progress,models/experiments/progress/model.zip,63,1063,171.1240730751863,755,False,False,True,False
+Progress,models/experiments/progress/model.zip,64,1064,79.47846653831121,845,False,False,True,False
+Progress,models/experiments/progress/model.zip,65,1065,183.51310776127832,771,False,False,True,False
+Progress,models/experiments/progress/model.zip,66,1066,109.21114411900912,744,False,False,True,False
+Progress,models/experiments/progress/model.zip,67,1067,105.99412204707203,699,False,False,True,False
+Progress,models/experiments/progress/model.zip,68,1068,182.14256792607873,815,False,False,True,False
+Progress,models/experiments/progress/model.zip,69,1069,-130.70541873907192,450,False,True,True,False
+Progress,models/experiments/progress/model.zip,70,1070,-81.6572369531055,361,False,True,True,False
+Progress,models/experiments/progress/model.zip,71,1071,-104.9446490579242,144,False,True,True,False
+Progress,models/experiments/progress/model.zip,72,1072,111.9374742023512,829,False,False,True,False
+Progress,models/experiments/progress/model.zip,73,1073,-98.70349485925443,461,False,True,True,False
+Progress,models/experiments/progress/model.zip,74,1074,-109.23262494370151,459,False,True,True,False
+Progress,models/experiments/progress/model.zip,75,1075,100.59196248303903,750,False,False,True,False
+Progress,models/experiments/progress/model.zip,76,1076,174.04965201742493,730,False,False,True,False
+Progress,models/experiments/progress/model.zip,77,1077,47.35917624901886,771,False,False,True,False
+Progress,models/experiments/progress/model.zip,78,1078,119.82415115933131,802,False,False,True,False
+Progress,models/experiments/progress/model.zip,79,1079,174.22441666054516,675,False,False,True,False
+Progress,models/experiments/progress/model.zip,80,1080,-64.37658455965209,277,False,True,True,False
+Progress,models/experiments/progress/model.zip,81,1081,192.03958396238073,731,False,False,True,False
+Progress,models/experiments/progress/model.zip,82,1082,129.19798251366856,649,False,False,True,False
+Progress,models/experiments/progress/model.zip,83,1083,91.8639594467343,614,False,False,True,False
+Progress,models/experiments/progress/model.zip,84,1084,156.6271421357353,712,False,False,True,False
+Progress,models/experiments/progress/model.zip,85,1085,156.56518926454487,609,False,False,True,False
+Progress,models/experiments/progress/model.zip,86,1086,122.28915025980137,604,False,False,True,False
+Progress,models/experiments/progress/model.zip,87,1087,-122.78185924575176,652,False,True,True,False
+Progress,models/experiments/progress/model.zip,88,1088,-112.02033848242213,742,False,True,True,False
+Progress,models/experiments/progress/model.zip,89,1089,127.08050109113529,847,False,False,True,False
+Progress,models/experiments/progress/model.zip,90,1090,43.59184892587757,800,False,False,True,False
+Progress,models/experiments/progress/model.zip,91,1091,63.74745101707661,832,False,False,True,False
+Progress,models/experiments/progress/model.zip,92,1092,166.53450071838313,655,False,False,True,False
+Progress,models/experiments/progress/model.zip,93,1093,128.0135317496454,782,False,False,True,False
+Progress,models/experiments/progress/model.zip,94,1094,-102.5437866370912,243,False,True,True,False
+Progress,models/experiments/progress/model.zip,95,1095,-204.2892769899919,809,False,True,True,False
+Progress,models/experiments/progress/model.zip,96,1096,-86.73069343936942,336,False,True,True,False
+Progress,models/experiments/progress/model.zip,97,1097,127.74222889525056,643,False,False,True,False
+Progress,models/experiments/progress/model.zip,98,1098,-102.07133924207844,296,False,True,True,False
+Progress,models/experiments/progress/model.zip,99,1099,-105.93844612626724,616,False,True,True,False
+Progress,models/experiments/progress/model.zip,100,1100,-77.5059112006738,165,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,1,1001,-38.46194481143131,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,2,1002,-0.48650114425673685,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,3,1003,-101.29970630192683,604,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,4,1004,-8.367415739204532,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,5,1005,108.90496559331908,806,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,6,1006,-0.437426719228781,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,7,1007,-2.021058685535022,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,8,1008,-25.462503625163514,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,9,1009,-44.42209383004744,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,10,1010,-4.363928409684106,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,11,1011,143.9139940533574,867,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,12,1012,146.78630792216234,888,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,13,1013,173.08936037124965,756,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,14,1014,155.66302633335698,954,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,15,1015,-21.110509672553658,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,16,1016,135.862148311591,581,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,17,1017,-42.30105915058693,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,18,1018,17.205595921432085,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,19,1019,-5.033607507952702,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,20,1020,32.339943733787436,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,21,1021,-10.680078577331766,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,22,1022,-0.6599730915231485,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,23,1023,99.58925911666178,928,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,24,1024,-94.11548692548492,723,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,25,1025,-102.78242853710294,559,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,26,1026,151.8913910996535,625,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,27,1027,-53.54174058991717,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,28,1028,3.7804152843894485,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,29,1029,-38.13219319717196,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,30,1030,-30.312039935984064,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,31,1031,-99.33246544796735,676,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,32,1032,-77.22708262886586,516,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,33,1033,-81.0711403335346,350,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,34,1034,-2.6895824715650845,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,35,1035,104.57643310392366,906,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,36,1036,-22.83844511029558,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,37,1037,-62.88832356267066,222,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,38,1038,-17.407259662284726,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,39,1039,2.5974343295289057,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,40,1040,127.58720533362025,633,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,41,1041,2.2350670300523534,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,42,1042,3.167352385712407,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,43,1043,-66.18652913323042,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,44,1044,85.06378544801282,816,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,45,1045,13.351001137978775,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,46,1046,-12.710950333790958,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,47,1047,-54.33556252158027,523,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,48,1048,-10.708171508735447,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,49,1049,126.5153956165504,709,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,50,1050,-18.58506979899316,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,51,1051,33.68619961213286,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,52,1052,-2.018736248028842,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,53,1053,92.61604240488367,695,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,54,1054,-55.56374842204916,211,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,55,1055,-43.47496576503566,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,56,1056,95.9681288270546,928,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,57,1057,2.8073663344663844,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,58,1058,8.86717058335295,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,59,1059,10.039623326918788,1000,False,False,False,True
+Potential Shaping,models/experiments/potential/model.zip,60,1060,106.39703399003938,894,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,61,1061,-27.937846812213245,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,62,1062,-13.751493998041072,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,63,1063,-94.1401339835944,396,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,64,1064,-48.231640036527935,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,65,1065,-116.89302811546668,755,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,66,1066,-36.35015483388658,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,67,1067,111.07417219477354,827,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,68,1068,-57.93883171799533,474,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,69,1069,-2.59342796358907,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,70,1070,169.33208551209367,991,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,71,1071,-0.8818452743754588,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,72,1072,149.46271483850643,596,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,73,1073,-10.774544974819847,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,74,1074,-11.971469727197935,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,75,1075,91.82098354891065,966,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,76,1076,-39.862178648488445,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,77,1077,-131.17747814173245,598,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,78,1078,177.32174269975565,634,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,79,1079,133.6697459752276,503,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,80,1080,-76.66639937515734,481,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,81,1081,178.63542182702474,371,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,82,1082,-10.694372635880711,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,83,1083,-84.51651896537865,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,84,1084,-18.56023629620857,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,85,1085,-11.148786782305528,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,86,1086,-32.05825164854299,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,87,1087,-38.35444581057506,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,88,1088,-50.91162632723734,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,89,1089,-53.498050435949004,303,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,90,1090,70.15871752801215,665,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,91,1091,-87.92727422654406,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,92,1092,81.39431146562083,771,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,93,1093,-140.48152028401424,572,False,True,True,False
+Potential Shaping,models/experiments/potential/model.zip,94,1094,-4.923162997285503,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,95,1095,-9.410788947692646,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,96,1096,-8.533551422837071,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,97,1097,-7.373872669906526,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,98,1098,142.91212480325737,958,False,False,True,False
+Potential Shaping,models/experiments/potential/model.zip,99,1099,-39.04186562842268,1000,False,True,False,True
+Potential Shaping,models/experiments/potential/model.zip,100,1100,-40.26689269588048,1000,False,True,False,True
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,1,1001,264.0555607655149,275,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,2,1002,259.42071727983216,331,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,3,1003,263.79563185945335,316,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,4,1004,288.7317172866252,290,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,5,1005,233.13859289102322,300,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,6,1006,280.0738952929057,269,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,7,1007,256.2143672801622,301,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,8,1008,248.15203482910604,330,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,9,1009,23.245213677444852,243,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,10,1010,286.08694384602296,325,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,11,1011,232.6693897731888,286,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,12,1012,247.20520906013746,284,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,13,1013,294.1394444251557,357,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,14,1014,235.99392928289458,281,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,15,1015,280.5605673525584,301,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,16,1016,237.10268250213414,330,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,17,1017,260.55495327365566,310,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,18,1018,269.2974069073594,309,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,19,1019,265.32456027262486,275,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,20,1020,24.895047128342554,264,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,21,1021,257.3271104681993,314,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,22,1022,126.8456056033491,1000,False,False,False,True
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,23,1023,236.71929104505142,292,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,24,1024,287.02505302291627,329,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,25,1025,265.58545249838596,347,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,26,1026,292.4896239545226,364,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,27,1027,255.73672329787803,307,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,28,1028,267.77127466699847,273,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,29,1029,197.41863255152836,595,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,30,1030,259.5380895598357,266,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,31,1031,265.8357135082988,333,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,32,1032,280.8868245556903,302,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,33,1033,257.2729750866621,326,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,34,1034,258.5132842690496,310,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,35,1035,254.00457747278193,309,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,36,1036,255.49970582047138,302,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,37,1037,280.33410496265276,338,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,38,1038,269.46270422374084,324,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,39,1039,264.96807647625747,299,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,40,1040,265.08132029562194,286,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,41,1041,267.6633993909887,323,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,42,1042,149.21987110907227,1000,False,False,False,True
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,43,1043,244.6173835453139,272,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,44,1044,224.8530131009739,282,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,45,1045,267.67680653741513,348,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,46,1046,252.19644827851926,288,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,47,1047,289.700515174181,314,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,48,1048,269.98071844998447,311,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,49,1049,267.82963220849047,333,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,50,1050,250.9802208476888,294,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,51,1051,98.16373311097546,1000,False,False,False,True
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,52,1052,270.7419635946416,313,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,53,1053,232.54384930413661,289,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,54,1054,262.44154702479216,299,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,55,1055,257.7974674579018,303,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,56,1056,258.37900524118606,285,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,57,1057,256.52766225621815,317,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,58,1058,26.54009617362786,236,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,59,1059,265.56959264506804,322,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,60,1060,248.46769334300402,298,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,61,1061,256.0594499642171,312,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,62,1062,261.29522916303483,305,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,63,1063,251.81261200249602,301,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,64,1064,233.76850050813343,312,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,65,1065,121.75608624435911,1000,False,False,False,True
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,66,1066,253.57922247247913,315,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,67,1067,257.7293004570645,268,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,68,1068,268.8612318583708,362,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,69,1069,272.5706385331853,309,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,70,1070,32.013524527042875,266,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,71,1071,228.5706204352577,451,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,72,1072,276.1613879584087,364,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,73,1073,288.42372888747127,276,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,74,1074,256.2764996182101,284,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,75,1075,250.08293327992237,284,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,76,1076,246.9130456022264,334,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,77,1077,225.8771219439385,272,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,78,1078,267.037770243748,297,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,79,1079,250.72458907221315,298,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,80,1080,149.0327349281437,1000,False,False,False,True
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,81,1081,273.8515056908969,331,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,82,1082,260.73024871296263,298,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,83,1083,231.2562790186489,294,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,84,1084,257.27371546070754,271,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,85,1085,253.55101792751051,276,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,86,1086,242.346457380992,304,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,87,1087,265.9135158971294,348,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,88,1088,244.0630739500765,308,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,89,1089,289.66528885317837,374,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,90,1090,218.31729412369987,313,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,91,1091,233.97898923892797,279,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,92,1092,249.74829712677987,285,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,93,1093,219.00757227768807,292,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,94,1094,197.04345784213027,667,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,95,1095,246.63273846913265,306,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,96,1096,193.18024853079632,596,False,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,97,1097,264.1711040263714,272,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,98,1098,255.44176015305007,334,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,99,1099,250.48858315894034,335,True,False,True,False
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,100,1100,46.317204461430464,223,False,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,1,1001,265.1552690053662,276,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,2,1002,250.0602136331449,346,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,3,1003,261.57693442683916,331,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,4,1004,292.0857565819717,257,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,5,1005,239.5940651645333,298,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,6,1006,258.6943469564221,312,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,7,1007,259.29970935838776,296,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,8,1008,243.6411839969871,313,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,9,1009,226.6431273425267,588,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,10,1010,291.5817791799036,369,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,11,1011,232.34654636609162,291,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,12,1012,244.38135866305487,290,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,13,1013,281.42185689753,320,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,14,1014,233.01896910805792,279,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,15,1015,285.5020705873271,317,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,16,1016,249.96754648792063,309,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,17,1017,270.41940885482086,289,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,18,1018,271.96388362988773,341,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,19,1019,259.22110957733935,285,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,20,1020,31.584764270283415,265,False,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,21,1021,260.5814573446238,316,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,22,1022,270.0130320592481,306,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,23,1023,238.74328680104088,279,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,24,1024,288.94570217124385,293,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,25,1025,260.493638412025,319,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,26,1026,282.25632332382867,305,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,27,1027,252.30327588511693,324,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,28,1028,266.81687338505776,293,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,29,1029,257.854991130497,295,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,30,1030,247.58842544379354,371,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,31,1031,253.33387104951538,307,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,32,1032,238.98501826387218,335,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,33,1033,220.54189796749688,313,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,34,1034,12.12014618238284,267,False,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,35,1035,255.34065406340733,278,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,36,1036,262.6952125381977,314,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,37,1037,274.48383094697624,368,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,38,1038,262.579229668171,282,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,39,1039,256.2220905944225,288,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,40,1040,265.1838953667635,282,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,41,1041,259.118277394407,352,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,42,1042,257.0024933763169,428,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,43,1043,245.85889608976856,280,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,44,1044,230.10480090799746,301,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,45,1045,264.49549811201285,333,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,46,1046,249.18455188452208,281,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,47,1047,277.8126507484473,271,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,48,1048,277.28914196858716,313,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,49,1049,257.7686425695566,310,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,50,1050,249.90874758334544,317,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,51,1051,229.58395827093068,511,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,52,1052,262.9164070288349,298,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,53,1053,236.70783045996166,280,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,54,1054,274.1349734744914,291,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,55,1055,266.0116728949612,321,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,56,1056,264.7423095140904,287,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,57,1057,250.7071771721486,318,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,58,1058,245.59222752239128,491,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,59,1059,257.55676968162885,342,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,60,1060,245.0668389445099,292,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,61,1061,246.15602811097835,302,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,62,1062,258.1591549449025,271,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,63,1063,252.83893645553766,299,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,64,1064,235.8755552607619,299,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,65,1065,130.91930053913163,1000,False,False,False,True
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,66,1066,242.02104167281416,323,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,67,1067,257.7230857817772,287,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,68,1068,264.31916950772495,319,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,69,1069,267.2197624285387,266,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,70,1070,13.638000688717511,265,False,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,71,1071,227.4259245404023,341,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,72,1072,273.7630656681536,367,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,73,1073,285.00782247364805,285,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,74,1074,252.08357632425484,285,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,75,1075,246.6606928369888,317,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,76,1076,253.50887894662034,304,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,77,1077,220.78207337896922,297,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,78,1078,270.0674751611542,312,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,79,1079,252.50662961458536,279,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,80,1080,155.86569683704138,1000,False,False,False,True
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,81,1081,271.33714416481325,293,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,82,1082,256.38183426388844,274,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,83,1083,228.20466134838304,284,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,84,1084,260.11242397579207,268,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,85,1085,246.34822954262773,288,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,86,1086,236.25688468567463,295,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,87,1087,262.08520733566945,334,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,88,1088,246.3490492137298,307,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,89,1089,290.8373609351028,324,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,90,1090,205.09441722528092,296,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,91,1091,230.362579620906,274,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,92,1092,242.6157657481322,295,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,93,1093,221.38693110672483,284,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,94,1094,99.24743737816898,1000,False,False,False,True
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,95,1095,243.83407687167977,313,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,96,1096,201.44646093182467,402,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,97,1097,258.6552384380933,268,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,98,1098,254.55807011999275,317,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,99,1099,247.29127971863647,315,True,False,True,False
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,100,1100,158.03797900157184,1000,False,False,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,1,1001,-93.69494994487904,835,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,2,1002,139.1731613525219,667,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,3,1003,135.57475372335756,927,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,4,1004,-80.59871416488859,689,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,5,1005,-160.15358493306996,921,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,6,1006,-59.42587491474079,253,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,7,1007,-156.39585180089148,391,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,8,1008,-126.61439574990092,760,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,9,1009,-188.87848287702386,965,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,10,1010,-74.66845646477,543,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,11,1011,124.40301167482633,850,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,12,1012,17.240333817255944,1000,False,False,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,13,1013,198.19083258596788,837,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,14,1014,125.54772714265998,561,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,15,1015,-24.983439602344575,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,16,1016,-71.32771428383899,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,17,1017,149.61934168886063,862,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,18,1018,-102.78210995877421,349,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,19,1019,126.74693242654239,975,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,20,1020,-43.52414460948317,239,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,21,1021,-111.09898893446876,648,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,22,1022,175.49397437978158,851,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,23,1023,-70.11388751332326,400,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,24,1024,-130.23985555141815,204,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,25,1025,32.21287765516352,1000,False,False,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,26,1026,-129.16809713829429,150,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,27,1027,-97.19217329904936,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,28,1028,-68.7331279878246,400,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,29,1029,-108.90884806839068,503,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,30,1030,-109.55267441306728,529,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,31,1031,-103.8897996470209,565,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,32,1032,-39.225386289741095,299,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,33,1033,-47.10906603660585,259,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,34,1034,154.24318017050132,928,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,35,1035,142.22274751189673,865,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,36,1036,130.14896370915324,916,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,37,1037,-151.01301629790584,198,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,38,1038,117.54999320767841,706,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,39,1039,-73.49976409654681,325,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,40,1040,-156.88896317617946,228,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,41,1041,-102.64733519697154,751,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,42,1042,-148.8387778567124,145,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,43,1043,80.21210251662029,989,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,44,1044,132.46270566912335,875,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,45,1045,-38.204529287357445,230,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,46,1046,147.22532814835455,805,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,47,1047,-86.16914437778651,743,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,48,1048,3.735936465790531,1000,False,False,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,49,1049,-148.02391790058033,276,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,50,1050,133.50488528288452,842,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,51,1051,-40.22794293419067,241,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,52,1052,150.11086557112992,779,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,53,1053,-111.87771998788975,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,54,1054,-141.5895542355808,166,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,55,1055,16.101315047974317,1000,False,False,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,56,1056,-95.63040814187195,605,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,57,1057,130.51072922015817,721,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,58,1058,174.60010112900562,780,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,59,1059,144.93769108796366,629,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,60,1060,115.7340988378646,935,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,61,1061,123.98058664632009,964,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,62,1062,149.64822855944828,812,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,63,1063,-157.97316052442932,911,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,64,1064,136.42379847405905,916,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,65,1065,-147.70771826874162,971,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,66,1066,144.83832100011278,901,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,67,1067,-104.64742061316096,683,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,68,1068,-162.19824694268686,907,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,69,1069,-121.3152580239823,549,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,70,1070,139.2498606848554,585,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,71,1071,-64.1298224812954,159,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,72,1072,-6.4103532531883864,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,73,1073,-21.94328530153753,440,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,74,1074,127.74219932138928,501,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,75,1075,81.73785970371918,729,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,76,1076,144.06269714282442,901,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,77,1077,90.25634259667133,958,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,78,1078,66.64393627994346,925,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,79,1079,-174.51380835965637,887,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,80,1080,-132.8932777871888,145,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,81,1081,179.3473432526226,813,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,82,1082,135.01149856941555,633,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,83,1083,-122.24383286905145,743,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,84,1084,135.74013904409298,875,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,85,1085,-94.66932162894267,637,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,86,1086,-112.964827450373,639,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,87,1087,125.67303413227236,675,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,88,1088,105.02630322875793,968,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,89,1089,-150.57289780042075,203,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,90,1090,112.0067129119504,803,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,91,1091,-85.26129933326231,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,92,1092,-50.61246985983093,1000,False,True,False,True
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,93,1093,108.11535248631154,903,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,94,1094,-90.55149377283992,301,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,95,1095,111.9509704547857,802,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,96,1096,-109.98858075657823,308,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,97,1097,165.80135460196607,775,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,98,1098,-116.17367258756403,385,False,True,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,99,1099,138.29992512464815,875,False,False,True,False
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,100,1100,-118.66784906570476,157,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,1,1001,-195.76835376841376,345,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,2,1002,-44.55206717123792,534,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,3,1003,-283.20050158744607,969,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,4,1004,-59.539228364246156,245,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,5,1005,-266.5966007241829,634,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,6,1006,-85.26122283539125,191,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,7,1007,-194.65250719902286,217,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,8,1008,184.53155515278718,661,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,9,1009,-184.46991128059346,261,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,10,1010,-43.68790614003023,204,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,11,1011,-155.7669513750678,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,12,1012,-185.61065307373875,986,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,13,1013,-165.52645075569185,152,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,14,1014,-79.27002398584473,441,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,15,1015,-176.31487011392346,189,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,16,1016,-219.7209590892799,242,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,17,1017,-180.11242940856906,287,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,18,1018,-78.11651994305605,186,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,19,1019,60.05884970778024,1000,False,False,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,20,1020,-66.52484476184395,172,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,21,1021,30.980852093445513,1000,False,False,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,22,1022,-166.2170173474758,288,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,23,1023,-45.201201655230236,290,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,24,1024,-165.79878615573853,156,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,25,1025,-61.31670833332248,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,26,1026,-146.29253659584282,137,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,27,1027,-225.4251628083892,575,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,28,1028,-61.075139769012544,286,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,29,1029,171.50044998064226,423,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,30,1030,-87.98012990411402,326,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,31,1031,165.67490103741073,571,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,32,1032,-90.89654441432465,168,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,33,1033,-71.75464697073309,183,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,34,1034,114.63934636598694,573,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,35,1035,178.37096623815268,727,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,36,1036,-77.83970716987876,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,37,1037,-174.30265113600274,176,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,38,1038,-98.63251342642982,339,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,39,1039,-60.90257939853308,236,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,40,1040,-182.3247094324676,190,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,41,1041,-68.91102692534447,310,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,42,1042,-164.37756375749768,127,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,43,1043,-142.68914661618257,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,44,1044,-241.9831532978763,588,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,45,1045,-52.460286482127536,172,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,46,1046,-109.38621143535687,311,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,47,1047,-130.32033434970225,202,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,48,1048,-175.39387823221736,236,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,49,1049,-172.7185237066725,204,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,50,1050,10.823028301918544,1000,False,False,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,51,1051,-54.536954559395184,210,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,52,1052,168.26991566600094,452,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,53,1053,-232.49753393121713,474,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,54,1054,-183.47744186848738,134,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,55,1055,-194.52529292069744,353,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,56,1056,-69.0887533042939,253,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,57,1057,-80.1134143678797,305,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,58,1058,-157.91896057766073,308,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,59,1059,-73.36430220922881,278,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,60,1060,-198.07569857171717,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,61,1061,-26.361617544100604,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,62,1062,-68.13295661808078,309,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,63,1063,-213.4070744733438,390,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,64,1064,-158.89868442191002,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,65,1065,-189.00230806443062,273,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,66,1066,-147.8755190613188,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,67,1067,130.792886003813,963,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,68,1068,-185.80454061698532,300,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,69,1069,-98.02881357123655,269,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,70,1070,-92.44240784236416,306,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,71,1071,-89.46147534008969,144,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,72,1072,-191.8523865002145,216,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,73,1073,198.58028617030715,336,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,74,1074,-97.94967684578205,305,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,75,1075,-74.4801703107293,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,76,1076,-211.08586991464384,530,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,77,1077,-82.13285921725677,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,78,1078,-177.29669316510865,258,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,79,1079,-176.59281036504322,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,80,1080,-153.0762511274834,131,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,81,1081,-182.49897545027358,242,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,82,1082,169.6912585464586,434,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,83,1083,-91.60406815291275,425,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,84,1084,-205.96217308010804,508,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,85,1085,-83.50522324608374,314,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,86,1086,-85.58769316629595,351,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,87,1087,-81.10598189638593,351,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,88,1088,-104.4929635957171,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,89,1089,-179.19236790840858,156,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,90,1090,122.8564673497771,716,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,91,1091,-103.52412785478296,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,92,1092,-138.03689857198498,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,93,1093,-182.59119540371015,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,94,1094,-94.01566231500817,223,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,95,1095,133.62266707146108,682,False,False,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,96,1096,-99.98902754246205,216,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,97,1097,52.28857903586268,1000,False,False,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,98,1098,-161.81138022329372,258,False,True,True,False
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,99,1099,-51.29981472401796,1000,False,True,False,True
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,100,1100,-127.33417216154172,154,False,True,True,False

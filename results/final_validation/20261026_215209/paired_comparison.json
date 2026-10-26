@@ -1,0 +1,15 @@
+{
+  "matched_episodes": 300,
+  "mean_reward_difference_candidate_minus_baseline": 3.1153327526560837,
+  "median_reward_difference": 2.2786062192539305,
+  "bootstrap_95pct_ci_lower": -1.8357863117289128,
+  "bootstrap_95pct_ci_upper": 8.177808348729725,
+  "candidate_wins_by_reward": 183,
+  "baseline_wins_by_reward": 117,
+  "ties_by_reward": 0,
+  "baseline_successes_ge_200": 279,
+  "candidate_successes_ge_200": 279,
+  "baseline_success_rate_pct": 93.0,
+  "candidate_success_rate_pct": 93.0,
+  "success_rate_difference_percentage_points": 0.0
+}

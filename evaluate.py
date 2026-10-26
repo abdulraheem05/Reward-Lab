@@ -13,12 +13,12 @@ parser.add_argument(
     action="store_true",
     help="Open the LunarLander game window",
 )
-parser.add_argument("--episodes", type=int, default=20)
+parser.add_argument("--episodes", type=int, default=100)
 args = parser.parse_args()
 
 # Prefer the best checkpoint from training
 best_path = Path("models/best/best_model.zip")
-final_path = Path("models/ppo_lunar_lander.zip")
+final_path = Path("models/fine_tuned/final_model.zip")
 
 if best_path.exists():
     model_path = best_path

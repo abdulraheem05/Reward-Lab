@@ -1,10 +1,14 @@
 
 import argparse
 from pathlib import Path
+import sys
 
 import gymnasium as gym
 from stable_baselines3 import PPO
 from stable_baselines3.common.monitor import Monitor
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
 from reward_wrapper import RewardShapingWrapper
 
@@ -20,8 +24,8 @@ args = parser.parse_args()
 
 reward_name = args.reward
 
-model_dir = Path("models/experiments") / reward_name
-log_dir = Path("logs/experiments") / reward_name
+model_dir = ROOT /"models"/"experiments"/ reward_name
+log_dir = ROOT /"logs"/ "experiments" / reward_name
 
 model_dir.mkdir(parents=True, exist_ok=True)
 log_dir.mkdir(parents=True, exist_ok=True)

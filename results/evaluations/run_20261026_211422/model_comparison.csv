@@ -1,0 +1,10 @@
+model,checkpoint,evaluation_episodes,base_seed,mean_reward,std_reward,median_reward,min_reward,max_reward,success_threshold,episodes_ge_200,success_rate_pct,episodes_below_0,mean_episode_length
+Baseline PPO,models/best/best_model.zip,100,1000,238.9916875,48.51767812,251.641033,10.24536118,294.8206182,200,91,91,0,374.35
+Time Penalty,models/experiments/time_penalty/model.zip,100,1000,33.86464408,130.566589,-39.54471027,-182.429968,232.6164941,200,13,13,53,529.62
+Hover Bonus,models/experiments/hover_bonus/model.zip,100,1000,-89.78002534,41.22606132,-89.04354772,-341.4827273,-15.63143235,200,0,0,100,966.05
+Progress,models/experiments/progress/model.zip,100,1000,27.66644759,128.6281744,79.9776652,-217.7331149,214.5846033,200,1,1,44,609.04
+Potential Shaping,models/experiments/potential/model.zip,100,1000,7.323822468,77.80747662,-8.972170185,-140.4815203,178.6354218,200,0,0,64,862.31
+Fine-tuned PPO - Best,models/strong_experiment/best/best_model.zip,100,1000,238.5238921,58.56281586,256.2454334,23.24521368,294.1394444,200,87,87,0,349.36
+Fine-tuned PPO - Final,models/strong_experiment/final_model.zip,100,1000,242.4379152,49.06743989,253.421375,12.12014618,292.0857566,200,93,93,0,339.73
+Curriculum PPO - Best,models/curriculum_experiment/best/best_model.zip,100,1000,-1.192692401,119.5759908,-39.72666461,-188.8784829,198.1908326,200,0,0,55,674.49
+Curriculum PPO - Final,models/curriculum_experiment/final_model.zip,100,1000,-93.96242345,110.0024792,-98.3306635,-283.2005016,198.5802862,200,0,0,85,472.37

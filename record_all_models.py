@@ -20,13 +20,6 @@ MODELS = {
 
     "Fine-tuned PPO - Best": "models/fine_tuned/best/best_model.zip",
     "Fine-tuned PPO - Final": "models/fine_tuned/final_model.zip",
-
-    "Curriculum PPO - Best": (
-        "models/curriculum_experiment/best/best_model.zip"
-    ),
-    "Curriculum PPO - Final": (
-        "models/curriculum_experiment/final_model.zip"
-    ),
 }
 
 SEED = 2026
